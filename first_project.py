@@ -1,9 +1,11 @@
 #!/usr/bin
 
 # get user name
-name = input('Hello, can i know your name?')
+name = input('Hello, can i know your name?')#
+
 # Get the level of the user
 print('What level are you?')
+
 level = input()
 print('Year')
 year = input()
